@@ -1,0 +1,8 @@
+.LoginButton {
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    margin-left: 0.5cm;
+    margin-top: 0.5cm;
+
+}

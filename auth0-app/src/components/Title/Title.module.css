@@ -1,0 +1,11 @@
+
+
+.Title {
+    margin-top: 0.5cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+    background-image: url("../Background/Background.svg");
+}

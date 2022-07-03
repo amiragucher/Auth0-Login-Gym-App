@@ -1,0 +1,10 @@
+.Profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    background-color: white;
+    width: 500px;
+   
+}
